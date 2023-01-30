@@ -3,5 +3,10 @@
         "type": "team",
         "name": "Migration Wallet",
         "address": "DNBURNBURNBURNBRNBURNBURNBURKz8StY"
+    },
+    {
+        "type": "team",
+        "name": "DARK Faucet",
+        "address": "DE9mT8cqYLBz2QgZvs18AtgLgetiwGatw3"
     }
 ]
