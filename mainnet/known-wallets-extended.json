@@ -118,10 +118,15 @@
         "type": "exchange",
         "name": "Upbit",
         "address": "ANQftoXeWoa9ud9q9dd2ZrUpuKinpdejAJ"
+   },
+   {
+        "type": "exchange",
+        "name": "Upbit Cold Wallet",
+        "address": "AZiS7KXBJ8o8JgdhPo2m4t8MGpGt1Ucxe7"
     },
     {
         "type": "exchange",
-        "name": "Upbit Cold Wallet",
+        "name": "Upbit Cold Wallet (Old)",
         "address": "AdzbhuDTyhnfAqepZzVcVsgd1Ym6FgETuW"
     },
     {
