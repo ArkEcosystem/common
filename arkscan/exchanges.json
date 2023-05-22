@@ -1,412 +1,453 @@
 [
   {
     "exchangeName": "7b",
-    "baseUrl": "https://sevenb.io/",
+    "baseURL": "https://sevenb.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Abra",
-    "baseUrl": "https://www.abra.com/",
+    "baseURL": "https://www.abra.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Atomars",
-    "baseUrl": "https://atomars.com/",
+    "baseURL": "https://atomars.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": false,
     "ETH": false,
     "stablecoins": false,
-    "other": true
+    "other": true,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Atomic Wallet",
-    "baseUrl": "https://atomicwallet.io/",
+    "baseURL": "https://atomicwallet.io/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "BCBitcoin",
-    "baseUrl": "https://www.bcbitcoin.com",
+    "baseURL": "https://www.bcbitcoin.com",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Binance",
-    "baseUrl": "https://www.binance.com/",
+    "baseURL": "https://www.binance.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "binance"
   },
   {
     "exchangeName": "BingX",
-    "baseUrl": "https://www.bingx.com/",
+    "baseURL": "https://www.bingx.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "bingx"
   },
   {
     "exchangeName": "Bitexen",
-    "baseUrl": "https://www.bitexen.com/",
+    "baseURL": "https://www.bitexen.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Bitladon",
-    "baseUrl": "https://www.bitladon.com/",
+    "baseURL": "https://www.bitladon.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Bittrex",
-    "baseUrl": "https://global.bittrex.com/",
+    "baseURL": "https://global.bittrex.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": false,
-    "other": false
+    "other": false,
+    "coingeckoId": "bittrex"
   },
   {
     "exchangeName": "Bitvavo",
-    "baseUrl": "https://bitvavo.com/",
+    "baseURL": "https://bitvavo.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": false,
     "ETH": false,
     "stablecoins": false,
-    "other": true
+    "other": true,
+    "coingeckoId": "bitvavo"
   },
   {
     "exchangeName": "Changelly",
-    "baseUrl": "https://changelly.com/",
+    "baseURL": "https://changelly.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": false,
     "ETH": false,
     "stablecoins": false,
-    "other": true
+    "other": true,
+    "coingeckoId": "changelly"
   },
   {
     "exchangeName": "ChangeNow",
-    "baseUrl": "https://changenow.io/",
+    "baseURL": "https://changenow.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "CoinDCX",
-    "baseUrl": "https://coindcx.com/",
+    "baseURL": "https://coindcx.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "coindcx"
   },
   {
     "exchangeName": "CoinEx",
-    "baseUrl": "https://www.coinex.com/",
+    "baseURL": "https://www.coinex.com/",
     "exchange": true,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "coinex"
   },
   {
     "exchangeName": "CoinSpot",
-    "baseUrl": "https://www.coinspot.com.au/",
+    "baseURL": "https://www.coinspot.com.au/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Exodus",
-    "baseUrl": "https://www.exodus.com/",
+    "baseURL": "https://www.exodus.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Graviex",
-    "baseUrl": "https://graviex.net/",
+    "baseURL": "https://graviex.net/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Guardarian",
-    "baseUrl": "https://guardarian.com/",
+    "baseURL": "https://guardarian.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": false,
     "ETH": false,
     "stablecoins": false,
-    "other": true
+    "other": true,
+    "coingeckoId": null
   },
   {
     "exchangeName": "HitBTC",
-    "baseUrl": "https://hitbtc.com/",
+    "baseURL": "https://hitbtc.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "hitbtc"
   },
   {
     "exchangeName": "InstantExchangers",
-    "baseUrl": "https://instantexchangers.net/",
+    "baseURL": "https://instantexchangers.net/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "InstaSwap",
-    "baseUrl": "https://instaswap.net",
+    "baseURL": "https://instaswap.net",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": false,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Kaiserex",
-    "baseUrl": "https://www.kaiserex.com/",
+    "baseURL": "https://www.kaiserex.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "LAToken",
-    "baseUrl": "https://latoken.com/",
+    "baseURL": "https://latoken.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "latoken"
   },
   {
     "exchangeName": "LetsExchange",
-    "baseUrl": "https://letsexchange.io/",
+    "baseURL": "https://letsexchange.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Mandala Exchange",
-    "baseUrl": "https://mandala.exchange/",
+    "baseURL": "https://mandala.exchange/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "MEXC",
-    "baseUrl": "https://www.mexc.com/",
+    "baseURL": "https://www.mexc.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "mxc"
   },
   {
     "exchangeName": "Nominex",
-    "baseUrl": "https://nominex.io/",
+    "baseURL": "https://nominex.io/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "nominex"
   },
   {
     "exchangeName": "Probit Global",
-    "baseUrl": "https://www.probit.com/",
+    "baseURL": "https://www.probit.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "probit"
   },
   {
     "exchangeName": "Probit Korea",
-    "baseUrl": "https://www.probit.kr/app/exchange/",
+    "baseURL": "https://www.probit.kr/app/exchange/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": "probit_kr"
   },
   {
     "exchangeName": "SimpleSwap",
-    "baseUrl": "https://simpleswap.io/",
+    "baseURL": "https://simpleswap.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "StealthEX",
-    "baseUrl": "https://stealthex.io/",
+    "baseURL": "https://stealthex.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "SwapSpace",
-    "baseUrl": "https://swapspace.co/",
+    "baseURL": "https://swapspace.co/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Swapuz",
-    "baseUrl": "https://swapuz.com/",
+    "baseURL": "https://swapuz.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "SwapZone",
-    "baseUrl": "https://swapzone.io/",
+    "baseURL": "https://swapzone.io/",
     "exchange": true,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Switchain",
-    "baseUrl": "https://www.switchain.com/",
+    "baseURL": "https://www.switchain.com/",
     "exchange": true,
     "aggregator": true,
     "BTC": true,
     "ETH": true,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Swyftx",
-    "baseUrl": "https://swyftx.com/",
+    "baseURL": "https://swyftx.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": false,
-    "other": true
+    "other": true,
+    "coingeckoId": null
   },
   {
     "exchangeName": "Upbit",
-    "baseUrl": "https://upbit.com/",
+    "baseURL": "https://upbit.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": false,
-    "other": false
+    "other": false,
+    "coingeckoId": "upbit"
   },
   {
     "exchangeName": "Upbit Indonesia",
-    "baseUrl": "https://id.upbit.com/",
+    "baseURL": "https://id.upbit.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": false,
-    "other": false
+    "other": false,
+    "coingeckoId": "upbit_indonesia"
   },
   {
     "exchangeName": "Upbit Thailand",
-    "baseUrl": "https://th.upbit.com/",
+    "baseURL": "https://th.upbit.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": true,
     "ETH": false,
     "stablecoins": false,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   },
   {
     "exchangeName": "ZT Exchange",
-    "baseUrl": "https://www.ztbzh.net/",
+    "baseURL": "https://www.ztbzh.net/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
-    "other": false
+    "other": false,
+    "coingeckoId": null
   }
 ]
