@@ -8,7 +8,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "7b"
   },
   {
     "exchangeName": "Abra",
@@ -19,7 +20,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "abra"
   },
   {
     "exchangeName": "Atomars",
@@ -30,7 +32,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "atomars"
   },
   {
     "exchangeName": "Atomic Wallet",
@@ -41,7 +44,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "atomic_wallet"
   },
   {
     "exchangeName": "BCBitcoin",
@@ -52,7 +56,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "bcbitcoin"
   },
   {
     "exchangeName": "Binance",
@@ -63,7 +68,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "binance"
+    "coingeckoId": "binance",
+    "icon": "binance"
   },
   {
     "exchangeName": "BingX",
@@ -74,7 +80,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "bingx"
+    "coingeckoId": "bingx",
+    "icon": "bingx"
   },
   {
     "exchangeName": "Bitexen",
@@ -85,7 +92,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "bitexen"
   },
   {
     "exchangeName": "Bitladon",
@@ -96,7 +104,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "bitladon"
   },
   {
     "exchangeName": "Bittrex",
@@ -107,7 +116,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": false,
-    "coingeckoId": "bittrex"
+    "coingeckoId": "bittrex",
+    "icon": "bittrex"
   },
   {
     "exchangeName": "Bitvavo",
@@ -118,7 +128,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": "bitvavo"
+    "coingeckoId": "bitvavo",
+    "icon": "bitvavo"
   },
   {
     "exchangeName": "Changelly",
@@ -129,7 +140,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": "changelly"
+    "coingeckoId": "changelly",
+    "icon": "changelly"
   },
   {
     "exchangeName": "ChangeNow",
@@ -140,7 +152,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "changenow"
   },
   {
     "exchangeName": "CoinDCX",
@@ -151,7 +164,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "coindcx"
+    "coingeckoId": "coindcx",
+    "icon": "coindcx"
   },
   {
     "exchangeName": "CoinEx",
@@ -162,7 +176,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "coinex"
+    "coingeckoId": "coinex",
+    "icon": "coinex"
   },
   {
     "exchangeName": "CoinSpot",
@@ -173,7 +188,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "coinspot"
   },
   {
     "exchangeName": "Exodus",
@@ -184,7 +200,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "exodus"
   },
   {
     "exchangeName": "Graviex",
@@ -195,7 +212,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "graviex"
   },
   {
     "exchangeName": "Guardarian",
@@ -206,7 +224,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "guardarian"
   },
   {
     "exchangeName": "HitBTC",
@@ -217,7 +236,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "hitbtc"
+    "coingeckoId": "hitbtc",
+    "icon": "hitbtc"
   },
   {
     "exchangeName": "InstantExchangers",
@@ -228,7 +248,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "instantexchangers"
   },
   {
     "exchangeName": "InstaSwap",
@@ -239,7 +260,8 @@
     "ETH": true,
     "stablecoins": false,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "instaswap"
   },
   {
     "exchangeName": "Kaiserex",
@@ -250,7 +272,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "kaiserex"
   },
   {
     "exchangeName": "LAToken",
@@ -261,7 +284,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "latoken"
+    "coingeckoId": "latoken",
+    "icon": "latoken"
   },
   {
     "exchangeName": "LetsExchange",
@@ -272,7 +296,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "letsexchange"
   },
   {
     "exchangeName": "Mandala Exchange",
@@ -283,7 +308,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "mandala_exchange"
   },
   {
     "exchangeName": "MEXC",
@@ -294,7 +320,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "mxc"
+    "coingeckoId": "mxc",
+    "icon": "mexc"
   },
   {
     "exchangeName": "Nominex",
@@ -305,7 +332,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "nominex"
+    "coingeckoId": "nominex",
+    "icon": "nominex"
   },
   {
     "exchangeName": "Probit Global",
@@ -316,7 +344,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "probit"
+    "coingeckoId": "probit",
+    "icon": "probit"
   },
   {
     "exchangeName": "Probit Korea",
@@ -327,7 +356,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "probit_kr"
+    "coingeckoId": "probit_kr",
+    "icon": "probit"
   },
   {
     "exchangeName": "SimpleSwap",
@@ -338,7 +368,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "simpleswap"
   },
   {
     "exchangeName": "StealthEX",
@@ -349,7 +380,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "stealthex"
   },
   {
     "exchangeName": "SwapSpace",
@@ -360,7 +392,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "swapspace"
   },
   {
     "exchangeName": "Swapuz",
@@ -371,7 +404,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "swapuz"
   },
   {
     "exchangeName": "SwapZone",
@@ -382,7 +416,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "swapzone"
   },
   {
     "exchangeName": "Switchain",
@@ -393,7 +428,8 @@
     "ETH": true,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "switchain"
   },
   {
     "exchangeName": "Swyftx",
@@ -404,7 +440,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "swyftx"
   },
   {
     "exchangeName": "Upbit",
@@ -415,7 +452,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": false,
-    "coingeckoId": "upbit"
+    "coingeckoId": "upbit",
+    "icon": "upbit"
   },
   {
     "exchangeName": "Upbit Indonesia",
@@ -426,7 +464,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": false,
-    "coingeckoId": "upbit_indonesia"
+    "coingeckoId": "upbit_indonesia",
+    "icon": "upbit"
   },
   {
     "exchangeName": "Upbit Thailand",
@@ -437,7 +476,8 @@
     "ETH": false,
     "stablecoins": false,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "upbit"
   },
   {
     "exchangeName": "ZT Exchange",
@@ -448,6 +488,7 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": null
+    "coingeckoId": null,
+    "icon": "zt_exchange"
   }
 ]
