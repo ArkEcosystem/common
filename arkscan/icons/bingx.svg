@@ -1,15 +1,1 @@
-<svg viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path
-    d="M8.615 5.751C5.465 10.748 1.744 11.446 0 11.342v4.66c2.872-.311 8.153-1.398 11.384-6.368 2.827-4.349 6.461-5.436 8.307-5.436V.005c-2.564-.052-7.845.621-11.076 5.746Z"
-    fill="url(#keep_bingx_icon)" />
-  <path
-    d="M11.385 5.695c3.15 4.948 6.871 5.64 8.615 5.538v4.615c-2.872-.308-8.153-1.385-11.384-6.308C5.789 5.233 2.155 4.156.309 4.156V.003C2.873-.05 8.154.618 11.385 5.695Z"
-    fill="#2A66FF" />
-  <defs>
-    <linearGradient id="keep_bingx_icon" x1="20.153" y1="1.848" x2=".308" y2="14.463" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2A66FF" />
-      <stop offset=".505" stop-color="#174EDB" />
-      <stop offset="1" stop-color="#2A66FF" />
-    </linearGradient>
-  </defs>
-</svg>
+<svg viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.615 5.751C5.465 10.748 1.744 11.446 0 11.342v4.66c2.872-.311 8.153-1.398 11.384-6.368 2.827-4.349 6.461-5.436 8.307-5.436V.005c-2.564-.052-7.845.621-11.076 5.746Z" fill="url(#keep_bingx_icon)"/><path d="M11.385 5.695c3.15 4.948 6.871 5.64 8.615 5.538v4.615c-2.872-.308-8.153-1.385-11.384-6.308C5.789 5.233 2.155 4.156.309 4.156V.003C2.873-.05 8.154.618 11.385 5.695Z" fill="#2A66FF"/><defs><linearGradient id="keep_bingx_icon" x1="20.153" y1="1.848" x2=".308" y2="14.463" gradientUnits="userSpaceOnUse"><stop stop-color="#2A66FF"/><stop offset=".505" stop-color="#174EDB"/><stop offset="1" stop-color="#2A66FF"/></linearGradient></defs></svg>
