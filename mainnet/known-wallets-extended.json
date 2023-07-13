@@ -81,6 +81,11 @@
     },
     {
         "type": "exchange",
+        "name": "Binance Cold Wallet V",
+        "address": "ATp5q7QzEnhkXk5Ca8bb7XtYuVZQnscL55"
+    },
+    {
+        "type": "exchange",
         "name": "Bittrex",
         "address": "AUexKjGtgsSpVzPLs6jNMM6vJ6znEVTQWK"
     },
