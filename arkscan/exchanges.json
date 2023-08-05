@@ -132,6 +132,18 @@
     "icon": "bitvavo"
   },
   {
+    "exchangeName": "Bybit",
+    "baseURL": "https://www.bybit.com/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": "bybit_spot",
+    "icon": "bybit"
+  },
+  {
     "exchangeName": "Changelly",
     "baseURL": "https://changelly.com/",
     "exchange": false,
