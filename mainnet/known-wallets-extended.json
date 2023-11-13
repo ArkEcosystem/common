@@ -110,7 +110,7 @@
         "address": "AJbmGnDAx9y91MQCDApyaqZhn6fBvYX9iJ"
     },
     {
-        "type": "exchange",
+        "type": "team",
         "name": "Genesis Wallet",
         "address": "AewxfHQobSc49a4radHp74JZCGP8LRe4xA"
     },
@@ -118,6 +118,11 @@
         "type": "exchange",
         "name": "Livecoin",
         "address": "AcVHEfEmFJkgoyuNczpgyxEA3MZ747DRAu"
+    },
+    {
+        "type": "exchange",
+        "name": "MEXC",
+        "address": "Ab5hvrFcUaDwrjQpczKB7a5AWpBPkPjnTE"
     },
     {
         "type": "exchange",
