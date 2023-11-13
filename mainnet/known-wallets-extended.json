@@ -61,33 +61,38 @@
     },
     {
         "type": "exchange",
-        "name": "Binance Cold Wallet",
+        "name": "Binance II",
         "address": "AQkyi31gUbLuFp7ArgH9hUCewg22TkxWpk"
     },
     {
         "type": "exchange",
-        "name": "Binance Cold Wallet II",
+        "name": "Binance III",
         "address": "AdS7WvzqusoP759qRo6HDmUz2L34u4fMHz"
     },
     {
         "type": "exchange",
-        "name": "Binance Cold Wallet III",
+        "name": "Binance IV",
         "address": "Aakg29vVhQhJ5nrsAHysTUqkTBVfmgBSXU"
     },
     {
         "type": "exchange",
-        "name": "Binance Cold Wallet IV",
+        "name": "Binance V",
         "address": "AazoqKvZQ7HKZMQ151qaWFk6nDY1E9faYu"
     },
     {
         "type": "exchange",
-        "name": "Binance Cold Wallet V",
+        "name": "Binance VI",
         "address": "ATp5q7QzEnhkXk5Ca8bb7XtYuVZQnscL55"
     },
     {
         "type": "exchange",
         "name": "Bittrex",
         "address": "AUexKjGtgsSpVzPLs6jNMM6vJ6znEVTQWK"
+    },
+    {
+        "type": "exchange",
+        "name": "Bitvavo",
+        "address": "ARkvVhzcyRTvv8BiLEcCK5g1CAftjoUGhY"
     },
     {
         "type": "exchange",
@@ -123,20 +128,20 @@
         "type": "exchange",
         "name": "Upbit",
         "address": "ANQftoXeWoa9ud9q9dd2ZrUpuKinpdejAJ"
-   },
-   {
-        "type": "exchange",
-        "name": "Upbit Cold Wallet",
-        "address": "AZiS7KXBJ8o8JgdhPo2m4t8MGpGt1Ucxe7"
     },
     {
         "type": "exchange",
-        "name": "Upbit Cold Wallet (Old)",
+        "name": "Upbit II",
         "address": "AdzbhuDTyhnfAqepZzVcVsgd1Ym6FgETuW"
     },
     {
         "type": "exchange",
-        "name": "Upbit Hot Wallet",
+        "name": "Upbit III",
+        "address": "AZiS7KXBJ8o8JgdhPo2m4t8MGpGt1Ucxe7"
+    },
+    {
+        "type": "exchange",
+        "name": "Upbit IV",
         "address": "AReY3W6nTv3utiG2em5nefKEsGQeqEVPN4"
     }
 ]
