@@ -180,6 +180,18 @@
     "icon": "bitrue"
   },
   {
+    "exchangeName": "Bitunix",
+    "baseURL": "https://www.bitunix.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "bitunix"
+  },
+  {
     "exchangeName": "Bitvavo",
     "baseURL": "https://bitvavo.com/",
     "exchange": false,
@@ -214,6 +226,42 @@
     "other": true,
     "coingeckoId": null,
     "icon": "blofin"
+  },
+  {
+    "exchangeName": "BTCC",
+    "baseURL": "https://www.btcc.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "btcc"
+  },
+  {
+    "exchangeName": "BVOX",
+    "baseURL": "https://www.bvox.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "bvox"
+  },
+  {
+    "exchangeName": "BYDFi",
+    "baseURL": "https://www.bydfi.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "bydfi"
   },
   {
     "exchangeName": "Bybit",
@@ -252,6 +300,18 @@
     "icon": "changenow"
   },
   {
+    "exchangeName": "Coin8",
+    "baseURL": "https://coin8.co",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "coin8"
+  },
+  {
     "exchangeName": "CoinDCX",
     "baseURL": "https://coindcx.com/",
     "exchange": true,
@@ -276,6 +336,18 @@
     "icon": "coinex"
   },
   {
+    "exchangeName": "Coinoswap",
+    "baseURL": "https://coinoswap.com/",
+    "exchange": false,
+    "aggregator": true,
+    "BTC": true,
+    "ETH": true,
+    "stablecoins": true,
+    "other": true,
+    "coingeckoId": null,
+    "icon": "coinoswap"
+  },
+  {
     "exchangeName": "CoinSpot",
     "baseURL": "https://www.coinspot.com.au/",
     "exchange": false,
@@ -286,6 +358,18 @@
     "other": false,
     "coingeckoId": null,
     "icon": "coinspot"
+  },
+  {
+    "exchangeName": "Crypto.com",
+    "baseURL": "https://www.crypto.com/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "cryptocom"
   },
   {
     "exchangeName": "Deepcoin",
@@ -300,16 +384,28 @@
     "icon": "deepcoin"
   },
   {
-    "exchangeName": "Exodus",
-    "baseURL": "https://www.exodus.com/",
+    "exchangeName": "DOEX",
+    "baseURL": "https://www.doex.com",
     "exchange": true,
     "aggregator": false,
-    "BTC": true,
-    "ETH": true,
+    "BTC": false,
+    "ETH": false,
     "stablecoins": true,
     "other": false,
     "coingeckoId": null,
-    "icon": "exodus"
+    "icon": "doex"
+  },
+  {
+    "exchangeName": "Flashift",
+    "baseURL": "https://flashift.app/",
+    "exchange": false,
+    "aggregator": true,
+    "BTC": true,
+    "ETH": true,
+    "stablecoins": true,
+    "other": true,
+    "coingeckoId": null,
+    "icon": "flashift"
   },
   {
     "exchangeName": "Gate.io",
@@ -334,6 +430,18 @@
     "other": false,
     "coingeckoId": null,
     "icon": "graviex"
+  },
+  {
+    "exchangeName": "GTrade",
+    "baseURL": "https://gains.trade",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "gtrade"
   },
   {
     "exchangeName": "Guardarian",
@@ -420,6 +528,18 @@
     "icon": "kaiserex"
   },
   {
+    "exchangeName": "Kraken",
+    "baseURL": "https://pro.kraken.com/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": true,
+    "ETH": true,
+    "stablecoins": false,
+    "other": true,
+    "coingeckoId": null,
+    "icon": "kraken"
+  },
+  {
     "exchangeName": "KuCoin",
     "baseURL": "https://www.kucoin.com",
     "exchange": true,
@@ -490,6 +610,18 @@
     "other": false,
     "coingeckoId": "mxc",
     "icon": "mexc"
+  },
+  {
+    "exchangeName": "Mudrex",
+    "baseURL": "https://mudrex.com/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "mudrex"
   },
   {
     "exchangeName": "Nominex",
@@ -576,18 +708,6 @@
     "icon": "probit"
   },
   {
-    "exchangeName": "Probit Korea",
-    "baseURL": "https://www.probit.kr/app/exchange/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "probit_kr",
-    "icon": "probit"
-  },
-  {
     "exchangeName": "SimpleSwap",
     "baseURL": "https://simpleswap.io/",
     "exchange": false,
@@ -622,18 +742,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "swapspace"
-  },
-  {
-    "exchangeName": "Swapter",
-    "baseURL": "https://swapter.io",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "swapter"
   },
   {
     "exchangeName": "Swapuz",
@@ -684,6 +792,30 @@
     "icon": "swyftx"
   },
   {
+    "exchangeName": "Toobit",
+    "baseURL": "https://www.toobit.com/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "toobit"
+  },
+  {
+    "exchangeName": "Triv",
+    "baseURL": "https://triv.co.id/",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "triv"
+  },
+  {
     "exchangeName": "Upbit",
     "baseURL": "https://upbit.com/",
     "exchange": true,
@@ -720,6 +852,18 @@
     "icon": "upbit"
   },
   {
+    "exchangeName": "UZX",
+    "baseURL": "https://uzx.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "uzx"
+  },
+  {
     "exchangeName": "WebSea",
     "baseURL": "https://www.websea.com",
     "exchange": true,
@@ -730,6 +874,30 @@
     "other": false,
     "coingeckoId": null,
     "icon": "websea"
+  },
+  {
+    "exchangeName": "Weex",
+    "baseURL": "https://www.weex.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "weex"
+  },
+  {
+    "exchangeName": "WhiteBit",
+    "baseURL": "https://whitebit.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "whitebit"
   },
   {
     "exchangeName": "Zoomex",
