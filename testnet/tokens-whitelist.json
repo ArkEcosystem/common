@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x180a864a755fed0144c622df49b83db577befefb",
+    "comment": "The original DARK20",
+    "createdAt": "2026-03-02T15:00:00.000Z"
+  },
+  {
+    "address": "0x12f6677522292654a231007c47b07971a7610908",
+    "comment": "SamCoin",
+    "createdAt": "2026-03-02T15:00:00.000Z"
+  },
+  {
+    "address": "0x5a223f4434d5bd8478100eeb3b0166a57a26350d",
+    "comment": "Lorem ipsum (symbol)",
+    "createdAt": "2026-03-02T15:00:00.000Z"
+  },
+  {
+    "address": "0x881fff36d8dcf2221b4bcf4ab4757124172fdd80",
+    "comment": "Lorem Ipsum (name)",
+    "createdAt": "2026-03-02T15:00:00.000Z"
+  }
+]
