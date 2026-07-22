@@ -1,17 +1,5 @@
 [
   {
-    "exchangeName": "7b",
-    "baseURL": "https://sevenb.io/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "7b"
-  },
-  {
     "exchangeName": "Abra",
     "baseURL": "https://www.abra.com/",
     "exchange": false,
@@ -22,18 +10,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "abra"
-  },
-  {
-    "exchangeName": "Atomars",
-    "baseURL": "https://atomars.com/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": false,
-    "other": true,
-    "coingeckoId": null,
-    "icon": "atomars"
   },
   {
     "exchangeName": "Atomic Wallet",
@@ -49,7 +25,7 @@
   },
   {
     "exchangeName": "BCBitcoin",
-    "baseURL": "https://www.bcbitcoin.com",
+    "baseURL": "https://bcxpro.io/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
@@ -73,7 +49,7 @@
   },
   {
     "exchangeName": "Binance Turkey",
-    "baseURL": "https://www.trbinance.com/",
+    "baseURL": "https://www.binance.tr/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
@@ -106,18 +82,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "bitexen"
-  },
-  {
-    "exchangeName": "BitForex",
-    "baseURL": "https://bitforex.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "bitforex"
   },
   {
     "exchangeName": "Bithumb",
@@ -212,7 +176,7 @@
     "ETH": false,
     "stablecoins": false,
     "other": true,
-    "coingeckoId": "bitvenus-spot",
+    "coingeckoId": "bitvenus_spot",
     "icon": "bitvenus"
   },
   {
@@ -300,18 +264,6 @@
     "icon": "changenow"
   },
   {
-    "exchangeName": "Coin8",
-    "baseURL": "https://coin8.co",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "coin8"
-  },
-  {
     "exchangeName": "CoinDCX",
     "baseURL": "https://coindcx.com/",
     "exchange": true,
@@ -384,18 +336,6 @@
     "icon": "deepcoin"
   },
   {
-    "exchangeName": "DOEX",
-    "baseURL": "https://www.doex.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "doex"
-  },
-  {
     "exchangeName": "Flashift",
     "baseURL": "https://flashift.app/",
     "exchange": false,
@@ -416,20 +356,8 @@
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "gate-io",
+    "coingeckoId": "gate",
     "icon": "gate"
-  },
-  {
-    "exchangeName": "Graviex",
-    "baseURL": "https://graviex.net/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "graviex"
   },
   {
     "exchangeName": "GTrade",
@@ -469,19 +397,19 @@
   },
   {
     "exchangeName": "HTX (Huobi)",
-    "baseURL": "https://futures.htx.com",
+    "baseURL": "https://www.htx.com/",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
     "ETH": false,
     "stablecoins": true,
     "other": false,
-    "coingeckoId": "htx",
+    "coingeckoId": "huobi",
     "icon": "htx"
   },
   {
     "exchangeName": "Hyperliquid",
-    "baseURL": "https://hyperliquid.xyz",
+    "baseURL": "https://app.hyperliquid.xyz",
     "exchange": true,
     "aggregator": false,
     "BTC": false,
@@ -493,7 +421,7 @@
   },
   {
     "exchangeName": "InstantExchangers",
-    "baseURL": "https://instantexchangers.net/",
+    "baseURL": "https://instantexchangers.com/",
     "exchange": false,
     "aggregator": true,
     "BTC": true,
@@ -624,18 +552,6 @@
     "icon": "mudrex"
   },
   {
-    "exchangeName": "Nominex",
-    "baseURL": "https://nominex.io/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "nominex",
-    "icon": "nominex"
-  },
-  {
     "exchangeName": "NovaDAX",
     "baseURL": "https://www.novadax.com",
     "exchange": true,
@@ -646,18 +562,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "novadax"
-  },
-  {
-    "exchangeName": "Onus",
-    "baseURL": "https://pro.goonus.io",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "onus"
   },
   {
     "exchangeName": "OrangeX",
@@ -694,18 +598,6 @@
     "other": false,
     "coingeckoId": "pionex",
     "icon": "pionex"
-  },
-  {
-    "exchangeName": "Probit Global",
-    "baseURL": "https://www.probit.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": true,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "probit",
-    "icon": "probit"
   },
   {
     "exchangeName": "SimpleSwap",
@@ -766,18 +658,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "swapzone"
-  },
-  {
-    "exchangeName": "Switchain",
-    "baseURL": "https://www.switchain.com/",
-    "exchange": true,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "switchain"
   },
   {
     "exchangeName": "Swyftx",
@@ -910,17 +790,5 @@
     "other": false,
     "coingeckoId": null,
     "icon": "zoomex"
-  },
-  {
-    "exchangeName": "ZT Exchange",
-    "baseURL": "https://www.ztbzh.net/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "zt_exchange"
   }
 ]
