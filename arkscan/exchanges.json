@@ -528,18 +528,6 @@
     "icon": "phemex"
   },
   {
-    "exchangeName": "Pionex",
-    "baseURL": "https://www.pionex.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "pionex",
-    "icon": "pionex"
-  },
-  {
     "exchangeName": "SimpleSwap",
     "baseURL": "https://simpleswap.io/",
     "exchange": false,
