@@ -492,18 +492,6 @@
     "icon": "mudrex"
   },
   {
-    "exchangeName": "NovaDAX",
-    "baseURL": "https://www.novadax.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "novadax"
-  },
-  {
     "exchangeName": "Phemex",
     "baseURL": "https://www.phemex.com/",
     "exchange": true,
