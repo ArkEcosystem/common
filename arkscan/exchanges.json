@@ -204,18 +204,6 @@
     "icon": "bvox"
   },
   {
-    "exchangeName": "BYDFi",
-    "baseURL": "https://www.bydfi.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "bydfi"
-  },
-  {
     "exchangeName": "Bybit",
     "baseURL": "https://www.bybit.com/",
     "exchange": true,
