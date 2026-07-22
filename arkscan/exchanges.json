@@ -180,18 +180,6 @@
     "icon": "bitvenus"
   },
   {
-    "exchangeName": "BTCC",
-    "baseURL": "https://www.btcc.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "btcc"
-  },
-  {
     "exchangeName": "BVOX",
     "baseURL": "https://www.bvox.com",
     "exchange": true,
