@@ -132,18 +132,6 @@
     "icon": "bitmex"
   },
   {
-    "exchangeName": "Bitrue",
-    "baseURL": "https://bitrue.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "bitrue",
-    "icon": "bitrue"
-  },
-  {
     "exchangeName": "Bitunix",
     "baseURL": "https://www.bitunix.com",
     "exchange": true,
