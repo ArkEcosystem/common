@@ -408,18 +408,6 @@
     "icon": "hyperliquid"
   },
   {
-    "exchangeName": "InstantExchangers",
-    "baseURL": "https://instantexchangers.com/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "instantexchangers"
-  },
-  {
     "exchangeName": "IXFI",
     "baseURL": "https://www.ixfi.com",
     "exchange": true,
