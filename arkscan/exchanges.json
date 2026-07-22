@@ -576,18 +576,6 @@
     "icon": "swapspace"
   },
   {
-    "exchangeName": "Swapuz",
-    "baseURL": "https://swapuz.com/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "swapuz"
-  },
-  {
     "exchangeName": "SwapZone",
     "baseURL": "https://swapzone.io/",
     "exchange": true,
