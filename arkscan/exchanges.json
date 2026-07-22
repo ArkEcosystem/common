@@ -456,18 +456,6 @@
     "icon": "letsexchange"
   },
   {
-    "exchangeName": "Mandala Exchange",
-    "baseURL": "https://mandala.exchange/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "mandala_exchange"
-  },
-  {
     "exchangeName": "MEXC",
     "baseURL": "https://www.mexc.com/",
     "exchange": true,
