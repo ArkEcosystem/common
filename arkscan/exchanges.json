@@ -288,18 +288,6 @@
     "icon": "hitbtc"
   },
   {
-    "exchangeName": "Hyperliquid",
-    "baseURL": "https://app.hyperliquid.xyz",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "hyperliquid"
-  },
-  {
     "exchangeName": "IXFI",
     "baseURL": "https://www.ixfi.com",
     "exchange": true,
@@ -430,6 +418,18 @@
     "other": false,
     "coingeckoId": null,
     "icon": "swapzone"
+  },
+  {
+    "exchangeName": "Switchain",
+    "baseURL": "https://www.switchain.com/",
+    "exchange": true,
+    "aggregator": true,
+    "BTC": true,
+    "ETH": true,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": null,
+    "icon": "switchain"
   },
   {
     "exchangeName": "Swyftx",
