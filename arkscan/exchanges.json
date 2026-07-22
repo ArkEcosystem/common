@@ -684,18 +684,6 @@
     "icon": "uzx"
   },
   {
-    "exchangeName": "WebSea",
-    "baseURL": "https://www.websea.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "websea"
-  },
-  {
     "exchangeName": "Weex",
     "baseURL": "https://www.weex.com",
     "exchange": true,
