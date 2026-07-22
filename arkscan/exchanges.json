@@ -408,18 +408,6 @@
     "icon": "ixfi"
   },
   {
-    "exchangeName": "Kaiserex",
-    "baseURL": "https://www.kaiserex.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "kaiserex"
-  },
-  {
     "exchangeName": "Kraken",
     "baseURL": "https://pro.kraken.com/",
     "exchange": true,
