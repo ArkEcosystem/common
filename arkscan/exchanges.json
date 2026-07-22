@@ -408,18 +408,6 @@
     "icon": "ixfi"
   },
   {
-    "exchangeName": "Kraken",
-    "baseURL": "https://pro.kraken.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": false,
-    "other": true,
-    "coingeckoId": null,
-    "icon": "kraken"
-  },
-  {
     "exchangeName": "KuCoin",
     "baseURL": "https://www.kucoin.com",
     "exchange": true,
