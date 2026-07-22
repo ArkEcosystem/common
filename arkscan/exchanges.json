@@ -108,30 +108,6 @@
     "icon": "bitkan"
   },
   {
-    "exchangeName": "BitMart",
-    "baseURL": "https://bitmart.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "bitmart",
-    "icon": "bitmart"
-  },
-  {
-    "exchangeName": "BitMEX",
-    "baseURL": "https://bitmex.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "bitmex_spot",
-    "icon": "bitmex"
-  },
-  {
     "exchangeName": "Bitunix",
     "baseURL": "https://www.bitunix.com",
     "exchange": true,
