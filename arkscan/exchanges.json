@@ -360,18 +360,6 @@
     "icon": "gtrade"
   },
   {
-    "exchangeName": "Guardarian",
-    "baseURL": "https://guardarian.com/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": false,
-    "other": true,
-    "coingeckoId": null,
-    "icon": "guardarian"
-  },
-  {
     "exchangeName": "HitBTC",
     "baseURL": "https://hitbtc.com/",
     "exchange": true,
