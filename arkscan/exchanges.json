@@ -396,18 +396,6 @@
     "icon": "hitbtc"
   },
   {
-    "exchangeName": "HTX (Huobi)",
-    "baseURL": "https://www.htx.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "huobi",
-    "icon": "htx"
-  },
-  {
     "exchangeName": "Hyperliquid",
     "baseURL": "https://app.hyperliquid.xyz",
     "exchange": true,
