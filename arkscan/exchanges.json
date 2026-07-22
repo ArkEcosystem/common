@@ -348,18 +348,6 @@
     "icon": "gate"
   },
   {
-    "exchangeName": "GTrade",
-    "baseURL": "https://gains.trade",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "gtrade"
-  },
-  {
     "exchangeName": "HitBTC",
     "baseURL": "https://hitbtc.com/",
     "exchange": true,
