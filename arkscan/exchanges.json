@@ -312,18 +312,6 @@
     "icon": "cryptocom"
   },
   {
-    "exchangeName": "Deepcoin",
-    "baseURL": "https://www.deepcoin.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "deepcoin",
-    "icon": "deepcoin"
-  },
-  {
     "exchangeName": "Flashift",
     "baseURL": "https://flashift.app/",
     "exchange": false,
