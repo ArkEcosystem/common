@@ -180,18 +180,6 @@
     "icon": "bitvenus"
   },
   {
-    "exchangeName": "Blofin",
-    "baseURL": "https://blofin.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": false,
-    "other": true,
-    "coingeckoId": null,
-    "icon": "blofin"
-  },
-  {
     "exchangeName": "BTCC",
     "baseURL": "https://www.btcc.com",
     "exchange": true,
