@@ -24,18 +24,6 @@
     "icon": "atomic_wallet"
   },
   {
-    "exchangeName": "BCBitcoin",
-    "baseURL": "https://bcxpro.io/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "bcbitcoin"
-  },
-  {
     "exchangeName": "Binance",
     "baseURL": "https://www.binance.com/",
     "exchange": true,
