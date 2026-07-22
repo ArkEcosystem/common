@@ -504,18 +504,6 @@
     "icon": "novadax"
   },
   {
-    "exchangeName": "OrangeX",
-    "baseURL": "https://www.orangex.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "orangex",
-    "icon": "orangex"
-  },
-  {
     "exchangeName": "Phemex",
     "baseURL": "https://www.phemex.com/",
     "exchange": true,
