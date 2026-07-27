@@ -288,6 +288,18 @@
     "icon": "ixfi"
   },
   {
+    "exchangeName": "KuCoin",
+    "baseURL": "https://www.kucoin.com",
+    "exchange": true,
+    "aggregator": false,
+    "BTC": false,
+    "ETH": false,
+    "stablecoins": true,
+    "other": false,
+    "coingeckoId": "kucoin",
+    "icon": "kucoin"
+  },
+  {
     "exchangeName": "LAToken",
     "baseURL": "https://latoken.com/",
     "exchange": true,
