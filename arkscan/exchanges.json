@@ -120,18 +120,6 @@
     "icon": "bitvavo"
   },
   {
-    "exchangeName": "BitVenus",
-    "baseURL": "https://bitvenus.me",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": false,
-    "other": true,
-    "coingeckoId": "bitvenus_spot",
-    "icon": "bitvenus"
-  },
-  {
     "exchangeName": "BVOX",
     "baseURL": "https://www.bvox.com",
     "exchange": true,
@@ -276,18 +264,6 @@
     "icon": "hitbtc"
   },
   {
-    "exchangeName": "IXFI",
-    "baseURL": "https://www.ixfi.com",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "ixfi"
-  },
-  {
     "exchangeName": "KuCoin",
     "baseURL": "https://www.kucoin.com",
     "exchange": true,
@@ -300,18 +276,6 @@
     "icon": "kucoin"
   },
   {
-    "exchangeName": "LAToken",
-    "baseURL": "https://latoken.com/",
-    "exchange": true,
-    "aggregator": false,
-    "BTC": false,
-    "ETH": false,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": "latoken",
-    "icon": "latoken"
-  },
-  {
     "exchangeName": "LBank",
     "baseURL": "https://www.lbank.com",
     "exchange": true,
@@ -322,18 +286,6 @@
     "other": false,
     "coingeckoId": "lbank",
     "icon": "lbank"
-  },
-  {
-    "exchangeName": "LetsExchange",
-    "baseURL": "https://letsexchange.io/",
-    "exchange": false,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "letsexchange"
   },
   {
     "exchangeName": "MEXC",
@@ -418,18 +370,6 @@
     "other": false,
     "coingeckoId": null,
     "icon": "swapzone"
-  },
-  {
-    "exchangeName": "Switchain",
-    "baseURL": "https://www.switchain.com/",
-    "exchange": true,
-    "aggregator": true,
-    "BTC": true,
-    "ETH": true,
-    "stablecoins": true,
-    "other": false,
-    "coingeckoId": null,
-    "icon": "switchain"
   },
   {
     "exchangeName": "Swyftx",
